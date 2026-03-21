@@ -10,7 +10,7 @@ The software was developed under Ubuntu 16.04 with tensorflow (GPU and CPU works
 
 clone the Repo
 ```
-git clone https://github.com/RoblabWh/RobLearn
+git clone https://github.com/alihadi2103/Laser-RGBD-Rob-Lerning.git
 ```
 
 and install dependencies
